@@ -1,7 +1,23 @@
 {
   "data": [
     {
-      "name": "电视台",
+      "name": "电视台1",
+      "pic": "https://img.pub/s/gLL.png",
+      "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+     {
+      "name": "电视台2",
       "pic": "https://img.pub/s/gLL.png",
       "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u",
       "type": "m3u",
