@@ -99,23 +99,21 @@
             "click":true,
             "webPlus":{
                 "search_url":"https://www.dmdy3.cc/vodsearch/-------------.html?wd={kw}",
-                "nav_url":"https://www.9ehao.com/vodshow/navCate/page/navPage",
-                "web_name":"9亿看看",
+                "nav_url":"https://www.dmdy3.cc/vodtype/navCate/navPage.html",
+                "web_name":"大米星球",
                 "search":false,
                 "navHtml":{
                     "name":[
-                        "国语配音",
-                        "热播电影",
-                        "热播电视",
-                        "热播美剧",
-                        "国配外剧"
+                        "电影",
+                        "电视剧",
+                        "动漫",
+                        "综艺"
                     ],
                     "cate":[
-                        "gypy",
-                        "zuijinrebodianying",
-                        "zuijinrebodianshiju",
-                        "rebomeiju",
-                        "guoyupeiyinhanju"
+                        "20",
+                        "21",
+                        "22",
+                        "23"
                     ],
                     "page":"1"
                 },
