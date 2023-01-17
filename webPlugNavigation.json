@@ -9,7 +9,6 @@
             "webOpen":false,
             "click":true,
             "webPlus":{
-		 // {kw}替换为搜索内容
                 "search_url":"https://www.jiujiukanpian.com/search?wd={kw}",
                 "nav_url":"https://www.jiujiukanpian.com/type/navCate/navPage.html",
                 "web_name":"久久看片",
